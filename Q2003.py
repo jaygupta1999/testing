@@ -1,6 +1,7 @@
 from test_framework import generic_test
 
-
+def call_rec():
+    pass
 
  
 # Returns no. of ways to
