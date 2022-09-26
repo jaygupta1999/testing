@@ -1,7 +1,7 @@
 from test_framework import generic_test
 
 def call_rec():
-    pass
+    return 5
 
  
 # Returns no. of ways to
